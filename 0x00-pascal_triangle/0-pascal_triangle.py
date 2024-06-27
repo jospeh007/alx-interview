@@ -16,8 +16,3 @@ def pascal_triangle(n):
         triangle.append(new_row)
 
     return triangle
-
-#Some examples of Pascal's Triangle
-print(pascal_triangle(5))
-print(pascal_triangle(1))
-print(pascal_triangle(0))
