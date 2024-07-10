@@ -2,9 +2,8 @@
 """ Minimum Operations """
 
 
-
 def minOperations(n: int) -> int:
-    """ Return an integer """
+    """ Minimum Operations needed to get n H characters """
     next = 'H'
     body = 'H'
     op = 0
