@@ -3,7 +3,7 @@
 
 
 def minOperations(n: int) -> int:
-""" Return an integer """
+    """ Return an integer """
     next = 'H'
     body = 'H'
     op = 0
