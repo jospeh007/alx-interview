@@ -2,7 +2,7 @@
 """ Minimum Operations """
 
 
-def minOperations(n)
+def minOperations(n: int) -> int:
 """ Return an integer """
     next = 'H'
     body = 'H'
