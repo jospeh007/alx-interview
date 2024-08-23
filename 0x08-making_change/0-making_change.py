@@ -3,7 +3,7 @@
 
 
 def makeChange(coins, total):
-    """ Determine the minimum number of coins needed to reach the total amount.
+    """ Determine the minimum number of coins needed to reach the total amount
 
     Args:
         coins (List[int]): List of available coin denominations.
